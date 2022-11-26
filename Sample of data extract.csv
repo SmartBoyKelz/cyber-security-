@@ -1,0 +1,16 @@
+duration,protocol_type,service,flag,src_bytes,dst_bytes,land,wrong_fragment,urgent,count,srv_count,serror_rate,srv_serror_rate,rerror_rate,srv_rerror_rate,same_srv_rate,diff_srv_rate,srv_diff_host_rate,dst_host_count,dst_host_srv_count,dst_host_same_srv_rate,dst_host_diff_srv_rate,dst_host_same_src_port_rate,dst_host_srv_diff_host_rate,dst_host_serror_rate,dst_host_srv_serror_rate,dst_host_rerror_rate,dst_host_srv_rerror_rate
+4,tcp,ssh,RSTO,3783,41588,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,udp,other,SF,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,udp,other,SF,336,590,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+3,udp,other,SF,868,0,0,0,0,0,2,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,0
+0,udp,other,SF,250,0,0,0,0,0,1,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,0
+3,udp,other,SF,868,0,0,0,0,0,1,0,0,0,0,0,0,1,1,4,1,0,0,0.75,0,0,0,0
+22,udp,other,SF,168,0,0,0,0,0,1,0,0,0,0,0,0,1,1,5,1,0,0.17,0.8,0,0,0,0
+0,udp,other,SF,336,590,0,0,0,0,1,0,0,0,0,0,0,1,1,6,1,0,0.14,0.83,0,0,0,0
+3,udp,other,SF,868,0,0,0,0,0,1,0,0,0,0,0,0,1,2,7,1,0,0,0.71,0,0,0,0
+3,udp,other,SF,868,0,0,0,0,1,1,0,0,0,0,1,0,0,3,8,1,0,0,0.62,0,0,0,0
+3,udp,other,SF,868,0,0,0,0,1,1,0,0,0,0,1,0,0,4,9,1,0,0,0.56,0,0,0,0
+0,udp,other,SF,336,590,0,0,0,0,1,0,0,0,0,0,0,1,2,10,1,0,0.18,0.8,0,0,0,0
+3,udp,other,SF,868,0,0,0,0,0,1,0,0,0,0,0,0,1,5,11,1,0,0,0.55,0,0,0,0
+22,udp,other,SF,168,0,0,0,0,0,1,0,0,0,0,0,0,1,2,12,1,0,0.15,0.83,0,0,0,0
+0,icmp,eco_i,SF,18,0,0,0,0,1,1,0,0,0,0,1,0,0,1,16,1,0,1,1,0,0,0,0
