@@ -1,6 +1,8 @@
 
 PLEASE GO THROUGH THE ATTACHED POWERPOINT PRESENTATION SLIDES...
 
+A MACHINE LEARNING APPROACH TO SOLVING CYBERSECURITY PROBLEM
+
 This project simulated a Network Intrusion Detector on a small scale consists of
 - A Network capture script (Tshark working in the terminal background)
 - A network detection Python script (using Machine learning Classification)
